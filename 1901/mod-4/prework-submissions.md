@@ -94,9 +94,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Max Silver
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://gist.github.com/MaxBSilver/57afe5679ccac20b706380c2bbc5308b)
+* [Annotated Express server file](https://gist.github.com/MaxBSilver/ad32944f77fed8829d95552df63cf8be)
+* [Promise Practice Exercises](https://repl.it/@MaxBSilver/prework-max-silver)
 
 ## Michael King-Stockton
 
